@@ -39,7 +39,7 @@
       <h3><a href="https://github.com/Minglink/dsh-infinite-gen-5">无限五代 · IG5</a></h3>
       <p>面向 DeepSeek Harness 的逆向工程工作台，整合 Ghidra、x64dbg 与 Unicorn，连接静态分析、调试、仿真和协议研究。</p>
       <p>
-        <img src="https://img.shields.io/github/languages/top/Minglink/dsh-infinite-gen-5?style=flat-square&amp;label=Language" alt="IG5 primary language" />
+        <img src="https://img.shields.io/github/languages/top/Minglink/dsh-infinite-gen-5?style=flat-square" alt="IG5 primary language" />
         <a href="https://github.com/Minglink/dsh-infinite-gen-5/stargazers"><img src="https://img.shields.io/github/stars/Minglink/dsh-infinite-gen-5?style=flat-square&amp;label=Stars&amp;color=bf8700" alt="IG5 stars" /></a>
       </p>
     </td>
@@ -47,7 +47,7 @@
       <h3><a href="https://github.com/Minglink/dsh-jailbreak-workflow">DSH 可视化工作流</a></h3>
       <p>在画布上设计步骤、分支与循环，编译成计划提示词，交给当前会话中的模型执行。配套工作流包可导入复用。</p>
       <p>
-        <img src="https://img.shields.io/github/languages/top/Minglink/dsh-jailbreak-workflow?style=flat-square&amp;label=Language" alt="Workflow plugin primary language" />
+        <img src="https://img.shields.io/github/languages/top/Minglink/dsh-jailbreak-workflow?style=flat-square" alt="Workflow plugin primary language" />
         <a href="https://github.com/Minglink/dsh-jailbreak-workflow/stargazers"><img src="https://img.shields.io/github/stars/Minglink/dsh-jailbreak-workflow?style=flat-square&amp;label=Stars&amp;color=bf8700" alt="Workflow plugin stars" /></a>
       </p>
     </td>
@@ -57,7 +57,7 @@
       <h3><a href="https://github.com/Minglink/wanxiang-knowledge">万象知识库</a></h3>
       <p>DeepSeek Harness 本地知识库插件，支持会话落库、Markdown 与 SQLite 存储、本地检索和知识图谱。</p>
       <p>
-        <img src="https://img.shields.io/github/languages/top/Minglink/wanxiang-knowledge?style=flat-square&amp;label=Language" alt="Wanxiang primary language" />
+        <img src="https://img.shields.io/github/languages/top/Minglink/wanxiang-knowledge?style=flat-square" alt="Wanxiang primary language" />
         <a href="https://github.com/Minglink/wanxiang-knowledge/stargazers"><img src="https://img.shields.io/github/stars/Minglink/wanxiang-knowledge?style=flat-square&amp;label=Stars&amp;color=bf8700" alt="Wanxiang stars" /></a>
       </p>
     </td>
@@ -65,7 +65,7 @@
       <h3><a href="https://github.com/Minglink/DeepSeek-Harness-Desktop">Harness Desktop 社区版</a></h3>
       <p>基于 DeepSeek Harness 的 Windows 桌面社区封装，提供 Electron 外壳、运行时打包与插件安装联动。</p>
       <p>
-        <img src="https://img.shields.io/github/languages/top/Minglink/DeepSeek-Harness-Desktop?style=flat-square&amp;label=Language" alt="Harness Desktop primary language" />
+        <img src="https://img.shields.io/github/languages/top/Minglink/DeepSeek-Harness-Desktop?style=flat-square" alt="Harness Desktop primary language" />
         <a href="https://github.com/Minglink/DeepSeek-Harness-Desktop/stargazers"><img src="https://img.shields.io/github/stars/Minglink/DeepSeek-Harness-Desktop?style=flat-square&amp;label=Stars&amp;color=bf8700" alt="Harness Desktop stars" /></a>
       </p>
     </td>
@@ -75,7 +75,7 @@
       <h3><a href="https://github.com/Minglink/dsh-workflows">DSH 工作流合集</a></h3>
       <p>可导入的 <code>.wflite.zip</code> 工作流集合，把研究与分析流程整理成可分享、可修改的任务模板。</p>
       <p>
-        <img src="https://img.shields.io/github/languages/top/Minglink/dsh-workflows?style=flat-square&amp;label=Language" alt="Workflow collection primary language" />
+        <img src="https://img.shields.io/github/languages/top/Minglink/dsh-workflows?style=flat-square" alt="Workflow collection primary language" />
         <a href="https://github.com/Minglink/dsh-workflows/stargazers"><img src="https://img.shields.io/github/stars/Minglink/dsh-workflows?style=flat-square&amp;label=Stars&amp;color=bf8700" alt="Workflow collection stars" /></a>
       </p>
     </td>
@@ -83,7 +83,7 @@
       <h3><a href="https://github.com/Minglink/hark-agent-mobile">Hark Agent Mobile</a></h3>
       <p>移动端 AI Agent 项目，探索手机上的独立 Linux 运行环境、任务规划、工具调用与多智能体协作。</p>
       <p>
-        <img src="https://img.shields.io/github/languages/top/Minglink/hark-agent-mobile?style=flat-square&amp;label=Language" alt="Hark primary language" />
+        <img src="https://img.shields.io/github/languages/top/Minglink/hark-agent-mobile?style=flat-square" alt="Hark primary language" />
         <a href="https://github.com/Minglink/hark-agent-mobile/stargazers"><img src="https://img.shields.io/github/stars/Minglink/hark-agent-mobile?style=flat-square&amp;label=Stars&amp;color=bf8700" alt="Hark stars" /></a>
       </p>
     </td>
